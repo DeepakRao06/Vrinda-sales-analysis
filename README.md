@@ -57,7 +57,7 @@ The dataset includes:
 ---
 
 ## 📷 Dashboard Preview
-[![Dashboard](dashboard.png)](./Vrinda%20Store%20Data%20Analysis.xlsx)
+[![Dashboard](dashboard.png)](Dashboard.png)
 
 ---
 
